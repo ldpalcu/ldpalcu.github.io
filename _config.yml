@@ -39,7 +39,7 @@ plugins:
 
 navigation_header:
     - title: Home
-      url: /
+      url: 
     - title: Blog
       url: /blog/
 
